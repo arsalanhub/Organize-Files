@@ -3,6 +3,9 @@
 <div><i>ars help</div></i>
 <div><i>ars organize Enter_full_PATH_here</div></i>
 <div><i>ars tree Enter_full_PATH_here</div></i>
+
+![alt text](https://github.com/arsalanhub/Organize-Files/blob/master/sample.png)
+
 <p></p>
 <div><b>Tech Stack</b>: node.js</div>
 
