@@ -1,3 +1,8 @@
-Features: Help, organize, Tree, global
+<b>Features</b>: Organize files in separate directories based on categories and display all files in tree structure.
+<div><b>Commands</b>:</div>
+<div><i>ars help</div></i>
+<div><i>ars organize Enter_full_PATH_here</div></i>
+<div><i>ars tree Enter_full_PATH_here</div></i>
+<p></p>
+<div><b>Tech Stack</b>: node.js</div>
 
-Organize: Separate files based on extensions like audio file in one folder, doc files in another and so on
