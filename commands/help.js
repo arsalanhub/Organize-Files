@@ -1,12 +1,12 @@
-function helpFn (dirPath) {
-    console.log(`
+function helpFn(dirPath) {
+  console.log(`
     List of All the commands:
-            ars tree "directoryPath"
-            ars organize "directoryPath"
-            ars help
-    `)
+            node main.js tree "directoryPath"
+            node main.js organize "directoryPath"
+            node main.js help
+    `);
 }
 
 module.exports = {
-    helpKey: helpFn
-}
+  helpKey: helpFn,
+};
